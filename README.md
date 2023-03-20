@@ -1,3 +1,3 @@
-............... Soon PhpTankv2.1
+............... Soon PhpTankv1.2
 
 
