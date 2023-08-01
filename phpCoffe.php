@@ -1,6 +1,3 @@
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -73,8 +70,7 @@ if ( isset($_POST['submit']) ) {
       echo "<pre class='m-5 p-2 '> ${$result}</pre>";
       
     }
-}
-  
+} 
 ?>
 </div>
   <!-- MDB -->
